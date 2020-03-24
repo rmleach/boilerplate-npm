@@ -1,6 +1,6 @@
 {
-  "author": "Ryan Leach",
   "name": "fcc-learn-npm-package-json",
+  "author": "Ryan Leach",
   "dependencies": {
     "express": "^4.14.0"
   },
